@@ -39,7 +39,7 @@ public class Temp
 		int i = 7;
 		String Page_Title = "COPY PASTE";
 		String Parent_Day= "6";
-		String Parent_Data = "8";
+		//String Parent_Data = "8";
 		String PreData = "Copy paste Day"+Parent_Day+" data"+Parent_Data+" – data";
 		if(Page_Title.equalsIgnoreCase("COPY PASTE") || (Page_Title.equalsIgnoreCase(PreData)))
 		{
